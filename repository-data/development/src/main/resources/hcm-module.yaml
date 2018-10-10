@@ -1,0 +1,7 @@
+group: 
+  name: Hippo-Primer
+  after: hippo-cms
+project: Hippo-Primer
+module: 
+  name: Hippo-Primer-repository-data-development
+  after: Hippo-Primer-repository-data-application

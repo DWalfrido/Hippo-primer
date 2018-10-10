@@ -1,0 +1,8 @@
+/content/documents/HippoPrimer:
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['hippo:named', 'hippotranslation:translated', 'mix:referenceable']
+  jcr:uuid: d4572b6d-f883-485a-8db8-0c890bd2eea8
+  hippo:name: Hippo-Primer
+  hippostd:foldertype: [new-translated-folder, new-document]
+  hippotranslation:id: 996bcac5-86cf-49b5-a7a3-16a74863e814
+  hippotranslation:locale: en

@@ -1,0 +1,21 @@
+<'HippoPrimer'='http://www.onehippo.org/HippoPrimer/nt/1.0'>
+<'hippo'='http://www.onehippo.org/jcr/hippo/nt/2.0.4'>
+<'hippostd'='http://www.onehippo.org/jcr/hippostd/nt/2.0'>
+<'hippostdpubwf'='http://www.onehippo.org/jcr/hippostdpubwf/nt/1.0'>
+<'hippotranslation'='http://www.onehippo.org/jcr/hippotranslation/nt/1.0'>
+
+[HippoPrimer:basedocument] > hippo:document, hippostd:publishableSummary, hippostdpubwf:document
+  orderable
+
+[HippoPrimer:AdminProperty] > HippoPrimer:basedocument, hippostd:relaxed, hippotranslation:translated
+  orderable
+
+[HippoPrimer:bannerdocument] > HippoPrimer:basedocument, hippostd:relaxed, hippotranslation:translated
+  orderable
+
+[HippoPrimer:contentdocument] > HippoPrimer:basedocument, hippostd:relaxed, hippotranslation:translated
+  orderable
+
+[HippoPrimer:newsdocument] > HippoPrimer:basedocument, hippostd:relaxed, hippotranslation:translated
+  orderable
+

@@ -1,0 +1,47 @@
+/content/documents/HippoPrimer/bad_lang_test:
+  jcr:primaryType: hippo:handle
+  jcr:mixinTypes: ['mix:referenceable']
+  jcr:uuid: c6d2e83c-4530-4b71-86d7-3749b6788fe6
+  /bad_lang_test[1]:
+    jcr:primaryType: HippoPrimer:AdminProperty
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 61c1487e-790d-469e-b640-bf4c20616930
+    HippoPrimer:name: ''
+    HippoPrimer:value: ''
+    hippo:availability: []
+    hippostd:state: draft
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2018-10-10T16:51:38.385+01:00
+    hippostdpubwf:lastModificationDate: 2018-10-10T16:52:57.449+01:00
+    hippostdpubwf:lastModifiedBy: admin
+    hippotranslation:id: bc906e84-7dbc-404b-bbf8-00a964228594
+    hippotranslation:locale: en
+  /bad_lang_test[2]:
+    jcr:primaryType: HippoPrimer:AdminProperty
+    jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+    jcr:uuid: 89d68508-0872-4365-82ae-236773400662
+    HippoPrimer:name: ''
+    HippoPrimer:value: ''
+    hippo:availability: [preview]
+    hippostd:state: unpublished
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2018-10-10T16:51:38.385+01:00
+    hippostdpubwf:lastModificationDate: 2018-10-10T16:52:57.349+01:00
+    hippostdpubwf:lastModifiedBy: admin
+    hippotranslation:id: bc906e84-7dbc-404b-bbf8-00a964228594
+    hippotranslation:locale: en
+  /bad_lang_test[3]:
+    jcr:primaryType: HippoPrimer:AdminProperty
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: fe1064f1-fa85-46d8-af70-939e651bf472
+    HippoPrimer:name: ''
+    HippoPrimer:value: ''
+    hippo:availability: [live]
+    hippostd:state: published
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2018-10-10T16:51:38.385+01:00
+    hippostdpubwf:lastModificationDate: 2018-10-10T16:52:57.349+01:00
+    hippostdpubwf:lastModifiedBy: admin
+    hippostdpubwf:publicationDate: 2018-10-10T16:59:08.554+01:00
+    hippotranslation:id: bc906e84-7dbc-404b-bbf8-00a964228594
+    hippotranslation:locale: en

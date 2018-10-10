@@ -1,0 +1,7 @@
+/content/gallery/HippoPrimer:
+  jcr:primaryType: hippogallery:stdImageGallery
+  jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+  jcr:uuid: cb972db3-8361-4bff-ba7e-4d870ec402c5
+  hippo:name: Hippo-Primer
+  hippostd:foldertype: [new-image-folder]
+  hippostd:gallerytype: ['hippogallery:imageset']
